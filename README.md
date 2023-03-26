@@ -29,3 +29,4 @@ golang hackathon result
 запуск врайтера: `go run ./writer/main.go -port 8081 -num 1`
 
 num - номер конкретного врайтера
+
